@@ -110,6 +110,7 @@ Merci
 
   * 1.5 Test du déploiement (et de la compilation) de vlmc
     * 1.5.1 `$ ~/scripts/maj_module.sh lib/vlm-c` => la compilation doit avoir lieu modulo quelques warnings,
+      had to manually copy windserver and polarserver
     * 1.5.2 vous devez avoir les fichiers .so et php dans ~/bin/lib (ou ailleurs suivant votre configuration)
     * 1.5.3 vous devez avoir '''windserver''' dans votre ~/bin
 
