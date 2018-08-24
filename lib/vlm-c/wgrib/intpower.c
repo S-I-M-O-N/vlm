@@ -31,6 +31,6 @@ double old_int_power(double x, int y) {
 }
 
 /* more efficient this way... */
-double inline int_power(double x, int y) {
+double int_power(double x, int y) {
   return pow(x, y);
 }
